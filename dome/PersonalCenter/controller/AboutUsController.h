@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AboutUsController.h
 //  dome
 //
 //  Created by 贾仕琪 on 2017/1/12.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface AboutUsController : UIViewController
 
-typedef void (^BLOCK)(void);
 @end
-
